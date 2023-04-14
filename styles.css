@@ -17,6 +17,7 @@ body {
   color: #f9faf8;
   font-size: 24px;
   text-decoration: none;
+  justify-items: center;
 }
 
 .nav{
@@ -47,12 +48,12 @@ body {
 }
 
 .mainText {
-  text-size: 48px;
+  font-size: 48px;
   color: #f9faf8;
 }
 
 .subText {
-  text-size: 18px; 
+  font-size: 18px; 
   color: #e5e7eb;
 }
 
