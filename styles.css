@@ -162,8 +162,9 @@ body {
   border-radius: 8px;
 }
 
-.blueBox {
+.blueBoxX {
   display: flex;
+  margin: 1em 1em 1em 1em;
 }
 
 .blueBText {
