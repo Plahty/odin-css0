@@ -116,11 +116,11 @@ body {
 .subText2,
 .subText3,
 .subText4 {
+
 }
 
 .bodyEnd{
-  background-color: white;
-
+  
 }
 
 .quoteBox {
@@ -170,6 +170,7 @@ body {
 .blueBText {
   display: flex;
   flex-wrap: wrap;
+  
 }
 
 .blue1 {
@@ -198,4 +199,8 @@ body {
   justify-content: center;
   background-color: #1f2937;
   color: white;
+}
+
+* {
+  border: 1px solid red;
 }
